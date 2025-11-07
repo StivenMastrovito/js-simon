@@ -1,0 +1,56 @@
+#numOutput > span {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(116, 198, 198);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+#numInput div > span {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(116, 198, 198);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+#numInput div span input{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(116, 198, 198);
+    border-radius: 10px;
+    border: 0;
+    text-align: center;
+}
+
+.timer{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(116, 198, 198);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin: 10px auto;
+}
+
+.haiperso{
+    background-color: black;
+    color: red; 
+    border-radius: 10px;
+    padding: 5px 0;
+}
+.haivinto{
+    background-color: black;
+    color: rgb(32, 208, 16); 
+    border-radius: 10px;
+    padding: 5px 0;
+
+}
